@@ -20,14 +20,22 @@
     flex-direction: column;
     overflow-y: auto;
     overflow-x: hidden;
+<<<<<<< HEAD
     box-shadow: 1px 1px 1px #555;
+=======
+    box-shadow: 1px 1px 1px #d9d9d9;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
     border-radius: 5px;
 }
 
 @media(min-width: 800px) {
     .sidebar {
         grid-area: 2/1/3/2;
+<<<<<<< HEAD
         background: #222;
+=======
+        background: #131e55;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
         overflow-y: auto;
         padding: 15px;
         gap: 20px;
@@ -54,7 +62,11 @@
         z-index: 2;
         height: 100vh;
         width: 50vw;
+<<<<<<< HEAD
         background: #222;
+=======
+        background: #a9a9a9;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
         transition: 0.3s;
         overflow: hidden;
     }
@@ -97,10 +109,18 @@
 
 .sidebar-book-list a:hover {
     transform: translateX(15px);
+<<<<<<< HEAD
     box-shadow: -10px 0px 5px greenyellow;
+=======
+    box-shadow: -10px 0px 5px #888;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
 }
 
 .sidebar-book-list a:active {
     background: #888;
+<<<<<<< HEAD
     color: rgb(99, 138, 40);
+=======
+    color: rgb(99, 99, 99);
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
 }

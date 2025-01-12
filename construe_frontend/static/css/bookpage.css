@@ -12,7 +12,11 @@
 .book-option button {
     margin-left: 15px;
     border: none;
+<<<<<<< HEAD
     color: greenyellow;
+=======
+    color: #131e55;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
     opacity: 0.6;
 }
 
@@ -64,7 +68,11 @@ form button {
 .comment-option button {
     font-size: small;
     border: none;
+<<<<<<< HEAD
     color: greenyellow;
+=======
+    color: #131e55;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
     opacity: 0.6;
 }
 
@@ -94,7 +102,11 @@ form button {
     z-index: 50;
     margin: auto;
     width: 60%;
+<<<<<<< HEAD
     background-color: #222;
+=======
+    background-color: #ffffff;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
     border-radius: 10px;
     padding: 40px;
 }

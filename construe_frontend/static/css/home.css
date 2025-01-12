@@ -23,7 +23,11 @@
 
 .newbook:hover {
     transform: translate(-5px, -10px);
+<<<<<<< HEAD
     box-shadow: 5px 5px 3px greenyellow;
+=======
+    box-shadow: 5px 5px 3px rgb(99, 99, 99);
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
 }
 
 .newbook h4, .newbook p {
@@ -33,7 +37,11 @@
 
 .image-small {
     width: 100px;
+<<<<<<< HEAD
     background: #222;
+=======
+    background: #ffffff;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
     object-fit: contain;
     height: 130px;
   }
@@ -49,7 +57,11 @@
     margin: 0;
     z-index: -100;
     opacity: 0.5;
+<<<<<<< HEAD
     color: #222;
+=======
+    color: #ffffff;
+>>>>>>> fadd66ce05bf65f1bcad3b9d4b325ef240a4cb0d
 }
 
 @media(max-width: 800px) {
